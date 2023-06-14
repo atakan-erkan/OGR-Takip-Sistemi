@@ -1,0 +1,23 @@
+.tarih {
+  width: 70px;
+  height: 70px;
+  background: #efefef;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+}
+
+.tarih > .ay {
+  height: 30px;
+  line-height: 30px;
+  background: #009688;
+  color: #fff;
+  font-size: 13px;
+}
+
+.tarih > .gun {
+  font-family: "Patua One", cursive;
+  height: 40px;
+  line-height: 40px;
+  font-size: 20px;
+}
